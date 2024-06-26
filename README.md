@@ -1,13 +1,11 @@
-# Ejercicio para próxima
+# Hexagonal architecture practice
 
-## 1. Implementar el create campaign flow / endpoint
-Mi campaign recive id, storeId y dailyBudget
-También crear el diagrama, crear algo más específico
-No hace falta que funcione
+## Exercice 1. Implement create campaign flow 
+- The campaign receives an id, storeId and daily budget and needs to be saved to a DB and sent to Ad Server
+- Create a specific diagram
+- Doesn't need to work
+- Due date Tue Jul 2
 
-AdServer, DB
 
-Revisaremos la estructura de carpetas
-
-## 2. Buscar campaña, con ID, get by Id. 
-Nuetra campaña está en la BD pero también queremos los clicks que van a estar en el AdServer
+## Exercise 2. Implement get campaign by Id flow 
+- The campaign is on the DB but we also want to see the clicks that are in the AdServer
