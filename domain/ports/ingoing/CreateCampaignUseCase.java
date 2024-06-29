@@ -3,9 +3,10 @@ package domain.ports.ingoing;
 import domain.CreateCampaignCommand;
 import domain.CreateCampaignResult;
 
-/*
- * In port
+/**
+ * This is an ingoing port
  */
 public interface CreateCampaignUseCase {
-    CreateCampaignResult execute(CreateCampaignCommand createCampaignCommand);
+    // We can also call this method "create"
+    CreateCampaignResult execute(CreateCampaignCommand createCampaignCommand) throws Exception;
 }

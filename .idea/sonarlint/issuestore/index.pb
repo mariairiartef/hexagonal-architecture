@@ -1,0 +1,53 @@
+
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+K
+api/CampaignController.java,1/8/1810c245a2005c8a3b7bfdca79073e169eb03c69
+Q
+!domain/CreateCampaignCommand.java,3/9/391c0505cc5bf31604a8a9c7a6c2d49d658d1227
+_
+/domain/ports/ingoing/CreateCampaignUseCase.java,6/f/6fda45674d603df35ff027365c439624115b1564
+X
+(domain/mappers/CreateCampaignMapper.java,8/c/8c6b913a95390149eb2e1998cc702905c60adbc6
+Y
+)domain/ports/outgoing/AdServerClient.java,5/2/52af37e4b89868ac1d2be287b64418b7ec619f71
+]
+-domain/ports/outgoing/CampaignRepository.java,7/3/7308cef8365cfb186bf235925f6c5b560f5e7173
+P
+ domain/CreateCampaignResult.java,5/0/501a8f0f099702e7b18640254826bb25d4eec44f
+Q
+!domain/CreateCampaignService.java,4/d/4d4cb342944ee1bee73a56b31fb890b3688723b1
+[
++domain/ports/SearchCampaignByIdCommand.java,7/f/7fa4ce22572624ff13c635cac76eab5b38d50942
+U
+%domain/SearchCampaignByIdCommand.java,c/2/c2311a0d680a1570d21e4ddb21da69941d8d1387
+O
+api/mappers/CampaignMapper.java,e/6/e6ce2c2364ed3b77d282a8a74c0c28d3a5ac573c
+O
+domain/SendCampaignCommand.java,b/2/b2f7b63d54c3d72b167de9298e4e128f43ac8ab9
+K
+domain/models/Campaign.java,7/e/7e333a696995747a5e6e09ad71538114bdb4a351
+T
+$domain/SearchByCampaignIdResult.java,6/9/69a7af5072a6b30e5b081893403dfc63168de670
+c
+3domain/ports/ingoing/SearchByCampaignIdUseCase.java,6/6/665b599f69e6a01157fbb8a981eea5ef3dfd7f41
+U
+%domain/SearchByCampaignIdService.java,7/1/715c76bdb08276869a62916c3171b97f6007da71
+U
+%domain/SearchCampaignByIdService.java,b/0/b015d018e010d11e1ec2c85f535cb27421190e2e
+T
+$domain/SearchCampaignByIdResult.java,1/9/19c6088dc238a837ed9c6e62255e45f534fbf39c
+c
+3domain/ports/ingoing/SearchCampaignByIdUseCase.java,e/3/e3a6df822d31425039953b8c7aeb98f1be044ae6
+\
+,domain/mappers/SearchCampaignByIdMapper.java,0/8/08775d89eaafc7ff55d299ab27c5219bede785a1
+N
+domain/models/Performance.java,e/5/e57d510a9433c751df8a32df5c05e09ca3be326f
+Z
+*api/models/SearchCampaignByIdResponse.java,f/3/f3859feadb65b3982602225407def36625800332
+^
+.domain/CreateCampaignMapperImplementation.java,8/8/88ae0c3105c1dd31872d2b24cffe588a2842a8cf
+S
+#domain/CreateCampaignMapperImp.java,0/8/0886ba9f92172026bbe236ee45518bf36f112888
+W
+'domain/SearchCampaignByIdMapperImp.java,f/3/f30ed4a99c8c0c7bab9b1894f354363af802a4ec

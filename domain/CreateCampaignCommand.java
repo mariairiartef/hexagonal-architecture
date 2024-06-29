@@ -1,5 +1,3 @@
 package domain;
 
-public class CreateCampaignCommand {
-
-}
+public record CreateCampaignCommand(String id, String storeId, Long dailyBudget) {}
